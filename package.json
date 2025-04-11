@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Elfi-11/ALT_service_web#readme",
   "dependencies": {
+    "body-parser": "^2.2.0",
     "express": "^5.1.0",
     "sqlite3": "^5.1.7"
   },

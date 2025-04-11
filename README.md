@@ -9,4 +9,5 @@ npm i express
 npm i nodemon -D
 touch .gitignore
 npm i sqlite3
+npm i body-parser
 ```
