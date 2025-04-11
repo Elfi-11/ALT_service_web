@@ -1,12 +1,5 @@
 # TODO LIST
 
-
-npm init -y
-
-npm i express
-
-npm i nodemon -D
-
 Installation process : 
 
 ```bash
@@ -15,4 +8,5 @@ npm init
 npm i express
 npm i nodemon -D
 touch .gitignore
+npm i sqlite3
 ```
